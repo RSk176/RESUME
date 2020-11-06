@@ -1,37 +1,66 @@
-## Welcome to GitHub Pages
+>PROFILE SUMMARY 
 
-You can use the [editor on GitHub](https://github.com/RSk176/RESUME/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+### I'm Sanjeev Kumarr.R
+I'm an engineering student who has some knowledge in programing languages
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### QUALITIES:
+>Hard working                                
+>Add different perspective in projects                                
+>Team worker                                    
+>Can socialize with every person easily                   
+>More focused on company's growth                  
+>Creative                        
+>Can find solutions easily                     
+ 
+###  technical Knowledge:
+>C                         
+>C++                       
+>Java                         
+>Python                   
+ 
+### Skills:
+>Basic webpage hosting
+>Penitration testing
+>Ardiuno broad programing
 
-### Markdown
+### Operating Systems known:
+1.Windows
+2.Ubuntu
+3.kali linux
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### ACADEMIC CAREER:
+>CLASS 10: 92%
+>CLASS 12: 88%
 
-```markdown
-Syntax highlighted code block
+### PERSUING ACADEMIC CAREER:
+>BE(EEE)
 
-# Header 1
-## Header 2
-### Header 3
+### Languages Known:
+>Tamil                           
+>English                                                    
+>Hindi                                                 
+>Telugu                                                          
 
-- Bulleted
-- List
+### DOB:
+>17TH JUNE 2001
 
-1. Numbered
-2. List
+### Gender:
+>Male
 
-**Bold** and _Italic_ and `Code` text
+### AGE:
+>19
 
-[Link](url) and ![Image](src)
-```
+### MOTHER TONGUE:
+>Tamil
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Atheletic:
+>Karate                                                            
+>KHO-KHO School level player                                                
+>swimmer                                                            
 
-### Jekyll Themes
+### ACHEIVEMENTS:
+>2 SILVER MEDALS IN KARATE                                                                 
+>1 GOLD MEDAL IN KHO-KHO SCHOOL LEVEL CUP                                                                        
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RSk176/RESUME/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Support :
+>To edit on [GitHub](https://github.com/RSk176/RESUME/edit/main/README.md)
