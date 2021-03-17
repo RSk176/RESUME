@@ -32,8 +32,6 @@ I'm an engineering student who has some knowledge in programing languages. I’m
 2011 - 2016
   >>Passed my 10th Grade with 9.2 CGPA ,
 
->Got 1ST Place in Intraschool KHO-KHO Competition,
-
 ### S.D.A.V HR SEC SCHOOL ADAMBAKKAM
 >2016 - 2018
  >>PASSED MY 12TH GRADE WITH 88.48%
@@ -63,23 +61,23 @@ ELECTRICAL AND ELECTRONICS ENGINEERING
                           
 ## TRAININGS:
 ### VITAL TRAININGS:
->>Attended “AutoCAD” Training in Easwari Engineering College.
+>Attended “AutoCAD” Training in Easwari Engineering College.
 
->>Attended PCB designing Training  in Proteas,Multisim
+>Attended PCB designing Training  in Proteas,Multisim
 
->>Had done NPTEL COURSE IN MECHATRONICS.
+>Had done NPTEL COURSE IN MECHATRONICS.
 
 ### INPLANT TRAINING :
->>NEYVELI LIGNITE CORP.,NEYVELI
+>NEYVELI LIGNITE CORP.,NEYVELI
 
->>NORTH CHENNAI THERMAL POWER STATION,ENNORE
+>NORTH CHENNAI THERMAL POWER STATION,ENNORE
 
 ### OTHER ACTIVITIES:
->>An active  participant in ROTARY CLUB OF SRM EASWARI ENGINEERING COLLEGE
+>An active  participant in ROTARY CLUB OF SRM EASWARI ENGINEERING COLLEGE
 
->>An Member of FOSS(Free and Open Source Software) Club, Electronics hobby club And Green Energy club in our college
+>An Member of FOSS(Free and Open Source Software) Club, Electronics hobby club And Green Energy club in our college
 
->>Got ‘Pandit’ certification for finishing All Hindi language courses in Dakshin Bharath Hindi Prachar Sabha
+>Got ‘Pandit’ certification for finishing All Hindi language courses in Dakshin Bharath Hindi Prachar Sabha
 
 ## Languages Known:
 >Tamil                                                                                    
