@@ -111,7 +111,7 @@ VELECHERY,CHENNAI-42
 
 ### ACHEIVEMENTS:
 >2 SILVER MEDALS IN KARATE                                                                                                               
->1 GOLD MEDAL IN KHO-KHO SCHOOL LEVEL CUP                                                                                                                                   
+>1 GOLD MEDAL IN KHO-KHO SCHOOL LEVEL CUP
 
-### Support :
->To edit on [GitHub](https://github.com/RSk176/RESUME/edit/main/README.md)
+### LINKEDIN
+HTTPS://WWW.LINKEDIN.COM/IN/R-SANJEEV-KUMARR/
