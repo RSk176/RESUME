@@ -24,12 +24,12 @@ I'm an engineering student who has some knowledge in programing languages. I’m
 
 
 ### EDUCATION:
->ST.BRITO’S ACADEMY,VELACHERY
+## ST.BRITO’S ACADEMY,VELACHERY
 2011 - 2016
 •	Passed my 10th Grade with 9.2 CGPA ,
 •	Got 1ST Place in Intraschool KHO-KHO Competition,
 •	Got GOLD MEDALS in SOF Science AND Maths OLYPIAD respectively
->S.D.A.V HR SEC SCHOOL,ADAMBAKKAM
+## S.D.A.V HR SEC SCHOOL,ADAMBAKKAM
 2016 - 2018
 [PASSED MY 12TH GRADE WITH 88.48%]
 
